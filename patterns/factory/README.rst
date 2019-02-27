@@ -1,0 +1,1 @@
+Following codes are based on tutorial from `Real Python <https://realpython.com/factory-method-python/#recognizing-opportunities-to-use-factory-method>`_ and are customized by @achooan.
